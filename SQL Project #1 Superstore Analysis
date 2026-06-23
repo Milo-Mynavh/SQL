@@ -1,5 +1,7 @@
 >> SQL Project #1 Superstore Analysis
 
+>> DB Fiddle Superstore Database for SQL Project #1 >>
+
 CREATE TABLE superstore (
     item_id INTEGER PRIMARY KEY,
     item_name TEXT,
@@ -29,6 +31,10 @@ VALUES
     
     
 -- © Copyright 2025 Break Into Tech  --
+
+
+
+>> My SQL Queries based on DB Fiddle Spuerstore Database above >>
 
 -- Looking at all data from superstore table --
 SELECT *
